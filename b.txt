@@ -245,3 +245,4 @@ Refer to the following topics for detailed information about using Shiboken:
  * :doc:`User Defined Type Conversion <../typesystem_converters>`
  * :doc:`Object ownership <../typesystem_ownership>`
  * :doc:`Considerations and Frequently Asked Questions <../considerations>`
+
